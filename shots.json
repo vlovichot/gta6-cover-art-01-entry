@@ -1,5 +1,1 @@
-[
-  { "name": "1-cover.jpg", "query": "?shot=cover&photo=pier&caption=Sunset%20Heist", "w": 1080, "h": 1080 },
-  { "name": "2-editor.jpg", "query": "?shot=editor&photo=boulevard&caption=Boulevard%20Queen", "w": 1280, "h": 720 },
-  { "name": "3-cover.jpg", "query": "?shot=cover&photo=boulevard&caption=Boulevard%20Queen", "w": 1080, "h": 1080 }
-]
+[{"h":1280,"name":"1-cover.jpg","query":"?shot=cover&photo=both&layout=poster&grade=sunset&caption=Neon%20Harbor&sub=Vice%20City%20Nights","w":1024},{"h":720,"name":"2-editor.jpg","query":"?shot=editor&photo=both&layout=poster&grade=sunset&size=portrait&caption=Boulevard%20Queen&sub=Palm%20City%20Heat","w":1280},{"h":720,"name":"3-cover-wide.jpg","query":"?shot=cover&photo=both&layout=cinema&grade=neon&caption=Palm%20City%20Heat&sub=Neon%20Harbor%20Nights","w":1280},{"h":1024,"name":"4-cover-square.jpg","query":"?shot=cover&photo=pier&layout=mosaic&grade=gold&caption=Sunset%20Heist&sub=One%20Last%20Score","w":1024}]
